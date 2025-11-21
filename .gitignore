@@ -1,0 +1,12 @@
+node_modules
+.env.local
+.env
+.next
+.vercel
+*.log
+.DS_Store
+dist
+build
+.turbo
+drizzle/migrations/*
+.vscode/settings.json
